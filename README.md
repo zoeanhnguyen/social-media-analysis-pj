@@ -3,6 +3,15 @@
 Analyzed 5,600+ social media posts to identify key drivers of content 
 performance for a global IT firm across 6 platforms and 8 regions.
 
+## Dataset
+- **Source:** [Onyx Data](https://onyxdata.co.uk)
+- **Size:** 5,600+ posts | 6 platforms | 8 regions | 2024
+- **Platforms:** TikTok, Instagram, LinkedIn, X.com, YouTube, Facebook
+- **Features include:**
+  - Post metadata: type (Video, Carousel, Text), content category, posting time, hashtags
+  - Performance metrics: Engagement, Views, Impressions, Clicks, CTR
+  - Geographic reach: by country and region
+
 ## Tools
 - **SQL** — data querying & aggregation
 - **Python** (Pandas, Seaborn) — data cleaning & visualization  
@@ -17,18 +26,9 @@ performance for a global IT firm across 6 platforms and 8 regions.
 ## Files
 | File | Description |
 |------|-------------|
-| `pj_platform.sql` | Data querying & aggregation |
-| `plat.ipynb` | Data cleaning & EDA |
-| `social media report project.pdf` | Full analysis report |
-
-## Dataset
-- **Source:** [Onyx Data](https://onyxdata.co.uk)
-- **Size:** 5,600+ posts | 6 platforms | 8 regions | 2024
-- **Platforms:** TikTok, Instagram, LinkedIn, X.com, YouTube, Facebook
-- **Features include:**
-  - Post metadata: type (Video, Carousel, Text), content category, posting time, hashtags
-  - Performance metrics: Engagement, Views, Impressions, Clicks, CTR
-  - Geographic reach: by country and region
+| `analysis.sql` | Data querying & aggregation |
+| `analysis.ipynb` | Data cleaning & EDA |
+| `social_media_report.pdf` | Full analysis report |
 
 ## Tableau
 🔗 View Interactive Dashboard on Tableau Public https://public.tableau.com/app/profile/zoe.nguyen2497/viz/SocialMediaAnalysisProject/Dashboard1#1
