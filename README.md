@@ -22,5 +22,5 @@ performance for a global IT firm across 6 platforms and 8 regions.
 | `social media report project.pdf` | Full analysis report |
 
 ## Tableau
-🔗 [View Interactive Dashboard on Tableau Public](**(https://public.tableau.com/app/profile/zoe.nguyen2497/viz/SocialMediaAnalysisProject/Dashboard1#1)**)
+🔗 [View Interactive Dashboard on Tableau Public] https://public.tableau.com/app/profile/zoe.nguyen2497/viz/SocialMediaAnalysisProject/Dashboard1#1
 
