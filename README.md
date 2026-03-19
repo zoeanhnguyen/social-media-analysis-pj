@@ -1,4 +1,4 @@
-# Social Media Marketing Performance Analysis 2024
+# Social Media Marketing Performance Analysis 
 
 Analyzed 5,600+ social media posts to identify key drivers of content 
 performance for a global IT firm across 6 platforms and 8 regions.
@@ -20,6 +20,15 @@ performance for a global IT firm across 6 platforms and 8 regions.
 | `pj_platform.sql` | Data querying & aggregation |
 | `plat.ipynb` | Data cleaning & EDA |
 | `social media report project.pdf` | Full analysis report |
+
+## Dataset
+- **Source:** [Onyx Data](https://onyxdata.co.uk)
+- **Size:** 5,600+ posts | 6 platforms | 8 regions | 2024
+- **Platforms:** TikTok, Instagram, LinkedIn, X.com, YouTube, Facebook
+- **Features include:**
+  - Post metadata: type (Video, Carousel, Text), content category, posting time, hashtags
+  - Performance metrics: Engagement, Views, Impressions, Clicks, CTR
+  - Geographic reach: by country and region
 
 ## Tableau
 🔗 View Interactive Dashboard on Tableau Public https://public.tableau.com/app/profile/zoe.nguyen2497/viz/SocialMediaAnalysisProject/Dashboard1#1
